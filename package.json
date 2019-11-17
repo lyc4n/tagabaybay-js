@@ -1,5 +1,5 @@
 {
-  "name": "tagabaybay",
+  "name": "tagabaybay-js",
   "version": "1.0.0",
   "description": "npm package for transliterating tagalog to baybayin",
   "main": "index.js",
