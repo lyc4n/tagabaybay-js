@@ -1,0 +1,15 @@
+{
+  "name": "tagabaybay",
+  "version": "1.0.0",
+  "description": "npm package for transliterating tagalog to baybayin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Norly Canarias",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "homepage": "https://github.com/lyc4n/tagabaybay-js"
+}
